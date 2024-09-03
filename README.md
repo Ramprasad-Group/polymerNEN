@@ -1,5 +1,7 @@
 # Polymer Named Entity Normalization
 
+# IMPORTANT NOTE: The code and data shared here is available for academic non-commercial use only
+
 This repo contains code and data for the paper 'Machine-Guided Polymer Knowledge Extraction from the Literature Using Natural Language Processing: The Example of Named Entity Normalization' [[1]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00554).
 
 ## Requirements and Setup
